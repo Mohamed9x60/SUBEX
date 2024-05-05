@@ -1,0 +1,8 @@
+csv
+knock
+sockt
+requests
+colorama
+tldextract
+concurrent.futures
+xml.etree.ElementTree
