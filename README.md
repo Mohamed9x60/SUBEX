@@ -1,5 +1,6 @@
-## SUBEX
+## SUBEX tool
 The SUBEX tool is a specialized tool for extracting subdomains of websites along with their corresponding IP addresses.
+
 
 ## Dependencies
 
@@ -13,6 +14,7 @@ The SUBEX tool is a specialized tool for extracting subdomains of websites along
 - `tldextract` library
 - `concurrent.futures`library
 - `xml.etree.ElementTree` library
+
 
 ## Install repositories Kali Linux
 
