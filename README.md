@@ -1,4 +1,5 @@
 ## SUBEX tool
+
 The SUBEX tool is a specialized tool for extracting subdomains of websites along with their corresponding IP addresses.
 
 
@@ -44,7 +45,10 @@ The SUBEX tool is a specialized tool for extracting subdomains of websites along
 ![Screenshot_٢٠٢٤٠٥٠٥-٠٤٤٨١٥_Termux](https://github.com/Mohamed9x60/SUBEX/assets/162137526/9a0e15f8-1d9a-42e0-b781-905b68fb464c)
 
 
-##Video
+## Video
 
-https://github.com/Mohamed9x60/SUBEX/assets/162137526/980284d1-d40e-4a78-a0a3-67eec3770cbd
+
+
+
+https://github.com/Mohamed9x60/SUBEX/assets/162137526/7dcf63b9-6418-47e4-a17d-2301ccdce420
 
